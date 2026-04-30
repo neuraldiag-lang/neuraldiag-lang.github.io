@@ -1,1 +1,0 @@
-# neuraldiag-lang.github.io
